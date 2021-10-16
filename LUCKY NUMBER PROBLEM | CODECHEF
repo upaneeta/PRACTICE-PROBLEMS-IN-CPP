@@ -1,0 +1,27 @@
+#include <iostream>
+using namespace std;
+
+int main() 
+{
+    int n,i,j,arr[100];
+    cin>>n;
+    	for(i=0;i<n;i++)
+        {
+			for(j=0;j<3;j++)
+        	{
+            	cin>>arr[j];
+        	}
+        	if(arr[0]==7 || arr[1]==7 ||arr[2]==7)
+            	{
+                	cout<<"YES"<<endl;
+            	}
+            else
+            {
+            	cout<<"NO"<<endl;
+			}
+        }
+        
+    
+	// your code goes here
+	return 0;
+}
