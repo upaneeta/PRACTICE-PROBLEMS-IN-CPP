@@ -2,7 +2,6 @@
 
 // } Driver Code Ends
 
-
 //User function Template for C++
 
 string reverseWord(string str){
