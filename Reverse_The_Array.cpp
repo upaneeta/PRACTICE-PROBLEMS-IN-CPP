@@ -8,7 +8,8 @@ string reverseWord(string str){
     
   //Your code here
   
-  int i;
+  
+    int i;
   
   for(i=str.size()-1;i>=0;i--)
   {
