@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-	// your code goes here#include<stdio.h>
+	// your code goes here
 
 int i,a,b,c,ans,n;
 cin>>n;
